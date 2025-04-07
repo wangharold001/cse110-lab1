@@ -2,4 +2,4 @@
 
 Harry Wang's User Page
 
-https://wangharold001.github.io/cse110-lab1/
+My favorite coding language is Python.
